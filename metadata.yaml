@@ -1,10 +1,14 @@
 _repo: Scottish-Poetry-of-the-Sixteenth-Century_49790
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Eyre-Todd, George
       gutenberg_agent_id: '45540'
       url: http://www.gutenberg.org/2009/agents/45540
+covers:
+- cover_type: archival
+  image_path: 49790-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49790#Scottish-Poetry-of-the-Sixteenth-Century
 gutenberg_issued: '2015-08-27'
 gutenberg_type: Text
 identifiers:
